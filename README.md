@@ -3,6 +3,8 @@
 Fully open souce TKL keyboard project
 ![Alt text](Renders/OpenTKLv2_double.png?raw=true)
 
+VERY MUCH WIP!!!
+
 Use as a base for your own designs, renders or order as is (read important info at the bottom).
 
 Details:
