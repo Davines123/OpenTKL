@@ -1,4 +1,6 @@
 # OpenTKL
+Edit to fix errors and include my own layout preferences
+
 
 Fully open souce TKL keyboard project
 ![Alt text](Renders/OpenTKL.png?raw=true)
